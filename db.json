@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Turtle, long-necked","category":"Khaki"},
+{"id":2,"name":"Little cormorant","category":"Goldenrod"},
+{"id":3,"name":"Otter, african clawless","category":"Crimson"},
+{"id":4,"name":"Coatimundi, ring-tailed","category":"Violet"},
+{"id":5,"name":"Python, carpet","category":"Blue"},
+{"id":6,"name":"Blue-footed booby","category":"Aquamarine"},
+{"id":7,"name":"Starling, superb","category":"Puce"},
+{"id":8,"name":"Quoll, eastern","category":"Maroon"},
+{"id":9,"name":"Savannah deer (unidentified)","category":"Pink"},
+{"id":10,"name":"Crane, blue","category":"Pink"},
+{"id":11,"name":"Blue-footed booby","category":"Blue"},
+{"id":12,"name":"Bustard, denham's","category":"Pink"},
+{"id":13,"name":"Great skua","category":"Fuscia"},
+{"id":14,"name":"Lion, african","category":"Violet"},
+{"id":15,"name":"Cormorant, javanese","category":"Violet"},
+{"id":16,"name":"Devil, tasmanian","category":"Teal"},
+{"id":17,"name":"European shelduck","category":"Turquoise"},
+{"id":18,"name":"Parrot, hawk-headed","category":"Aquamarine"},
+{"id":19,"name":"Heron, black-crowned night","category":"Teal"},
+{"id":20,"name":"Mouse, four-striped grass","category":"Aquamarine"}
+]
+}
